@@ -50,7 +50,7 @@ env:
   APP_DESC: "Latent variable analysis with Shiny"
   APP_HOMEPAGE: "https://github.com/kylehamilton/lavaan.shiny"
   APP_LICENSE: "GPL-3.0"
-  APP_MODE: "auto"
+  APP_MODE: "flat"
   APP_SUBDIR: "inst/shiny"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
